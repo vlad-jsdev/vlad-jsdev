@@ -31,7 +31,7 @@ Hi, I'm [Vlad Manoilo], a passionate self-taught Front-end developer and a freel
 
 📈 My GitHub Stats
 
-<p align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladosxxx)](https://github.com/vladosxxx/github-readme-stats)
+<p align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladosxxx)](https://github.com/vladosxxx/github-readme-stats)
 
 
 

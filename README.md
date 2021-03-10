@@ -11,12 +11,15 @@
 </a>  
 
 <br />
+--------------------------------------------------------------------------------
 
-## [My WebSite](https://vlados.netlify.app/)
+**[My WebSite](https://vlados.netlify.app/)**
 
 <a href="https://vlados.netlify.app/">
   <img alt="Vlad Manoilo" src="https://img.icons8.com/cotton/64/000000/website.png" />
 </a>  
+
+--------------------------------------------------------------------------------
 
 <br />  
 

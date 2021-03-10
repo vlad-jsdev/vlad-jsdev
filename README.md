@@ -12,9 +12,9 @@
 
 <br />  
 
-**My WebSite** 
+**My WebSite**  
 <a href="https://vlados.netlify.app/">
-  <img alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/konsav/social-icons/master/readme-images/preview.png" />
+  <img alt="Vlad Manoilo" src="https://raw.githubusercontent.com/konsav/social-icons/master/readme-images/preview.png" />
 </a>  
 
 <br />  
@@ -38,7 +38,7 @@ Hi, I'm [Vlad Manoilo](https://vlados.netlify.app/), a passionate self-taught Fr
 
 <br/>
 
-<p align="center">📈 My GitHub Stats
+<p align="center">📈 My GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=vladosxxx&show_icons=true&theme=gotham" alt="vladosxxx" />
 
 

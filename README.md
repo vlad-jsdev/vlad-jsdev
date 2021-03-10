@@ -10,7 +10,7 @@
   <img align="left" alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>  
 
-<br />  
+<br />
 
 **My WebSite**  
 

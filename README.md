@@ -14,7 +14,7 @@
 
 **My WebSite**  
 <a href="https://vlados.netlify.app/">
-  <img alt="Vlad Manoilo" src="https://raw.githubusercontent.com/konsav/social-icons/master/readme-images/preview.png" />
+  <img alt="Vlad Manoilo" src="https://img.icons8.com/cotton/64/000000/website.png" />
 </a>  
 
 <br />  

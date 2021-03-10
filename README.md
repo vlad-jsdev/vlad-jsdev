@@ -6,21 +6,23 @@
 <a href="https://www.linkedin.com/in/vlad-manoilo-68a40789/">
   <img align="left" alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.facebook.com/profile.php?id=100001903946448">
+  <img align="left" alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>  
 
-<br />
+<br />  
 
 **My WebSite** 
-<a href="https://www.linkedin.com/in/vlad-manoilo-68a40789/">
-  <img alt="Vlad Manoilo" width="22px" src="https://mpng.subpng.com/20180522/eww/kisspng-web-development-computer-icons-website-5b043775017c54.2851318415270029970061.jpg" />
-</a>
+<a href="https://vlados.netlify.app/">
+  <img alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/konsav/social-icons/master/readme-images/preview.png" />
+</a>  
 
-
-<br />
+<br />  
 
 Hi, I'm [Vlad Manoilo](https://vlados.netlify.app/), a passionate self-taught Front-end developer and a freelance software engineer from Ukraine. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, design and code quality of the things I build.
 
 
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" height="250" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@vlados_x](https://twitter.com/VladOS_X);
@@ -36,7 +38,7 @@ Hi, I'm [Vlad Manoilo](https://vlados.netlify.app/), a passionate self-taught Fr
 
 <br/>
 
-<p align="center"> 📈 My GitHub Stats
+<p align="center">📈 My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=vladosxxx&show_icons=true&theme=gotham" alt="vladosxxx" />
 
 

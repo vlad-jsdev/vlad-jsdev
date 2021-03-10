@@ -11,6 +11,7 @@
 </a>  
 
 <br />
+
 --------------------------------------------------------------------------------
 
 **[My WebSite](https://vlados.netlify.app/)**
@@ -42,8 +43,11 @@ Hi, I'm [Vlad Manoilo](https://vlados.netlify.app/), a passionate self-taught Fr
 
 <br/>
 
-<p align="center">📈 My GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=vladosxxx&show_icons=true&theme=gotham" alt="vladosxxx" />
+<p align="center">📈 My GitHub Stats</p>
+
+<br />
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vladosxxx&show_icons=true&theme=gotham" alt="vladosxxx" />
 
 
 

@@ -31,7 +31,7 @@ Hi, I'm [Vlad Manoilo](https://vlados.netlify.app/), a passionate self-taught Fr
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@vlados_x](https://twitter.com/VladOS_X);
-- 📝 [Resume](https://vlados.netlify.app/img/resume.pdf)
+- 📝 [Resume](https://vlados.netlify.app/resume/resume.pdf)
 
 **Languages and Tools:**  
 

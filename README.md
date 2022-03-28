@@ -7,7 +7,7 @@
   <img align="left" alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100001903946448">
-  <img align="left" alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Vlad Manoilo" width="22px" src="https://iconape.com/wp-content/files/yd/117914/png/Facebook_f_logo__2019_.png" />
 </a>  
 
 <br />

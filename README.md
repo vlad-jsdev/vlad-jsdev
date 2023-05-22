@@ -38,6 +38,7 @@ Hi, I'm [Vlad Manoilo](https://vlados.netlify.app/), a passionate self-taught Fr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sencha.com%2Fproducts%2Fextjs%2F&psig=AOvVaw2s3q9Kz6ohAN6x7KIrolCX&ust=1684841214940000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjb--LoiP8CFQAAAAAdAAAAABAN)"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br/>

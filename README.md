@@ -1,13 +1,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/VladOS_X">
-  <img align="left" alt="Vlad Manoilo | Twitter" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/9035eac5ec5cc2aaff68069736bf2ce839302424/icons/twitter.svg" />
+  <img align="left" alt="Vlad Manoilo | Twitter" width="22px" src="https://raw.githubusercontent.com/lucide-icons/lucide/890514de6c32585e5e13b1ccdbb6e2dbcee71e8b/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vlad-manoilo-68a40789/">
-  <img align="left" alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/9035eac5ec5cc2aaff68069736bf2ce839302424/icons/linkedin.svg" />
+  <img align="left" alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/lucide-icons/lucide/890514de6c32585e5e13b1ccdbb6e2dbcee71e8b/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100001903946448">
-  <img align="left" alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/9035eac5ec5cc2aaff68069736bf2ce839302424/icons/facebook.svg" />
+  <img align="left" alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/lucide-icons/lucide/890514de6c32585e5e13b1ccdbb6e2dbcee71e8b/icons/facebook.svg" />
 </a>  
 
 <br />

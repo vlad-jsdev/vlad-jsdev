@@ -14,7 +14,7 @@
 
 --------------------------------------------------------------------------------
 
-**[My WebSite](https://vlados.netlify.app/](https://onedivahead.netlify.app/)**
+**[My WebSite](https://onedivahead.netlify.app/)**
 
 <a href="https://vlados.netlify.app/">
   <img alt="Vlad Manoilo" src="https://img.icons8.com/cotton/64/000000/website.png" />
@@ -40,7 +40,7 @@ Explore my GitHub repositories to witness my passion for innovation and problem-
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@vlados_x](https://twitter.com/VladOS_X);
-- 📝 [Resume](https://vlados.netlify.app/resume/vladyslav-manoilo-cv.pdf](https://onedivahead.netlify.app/work/)
+- 📝 [Resume](https://onedivahead.netlify.app/work/)
 
 **Languages and Tools:**  
 

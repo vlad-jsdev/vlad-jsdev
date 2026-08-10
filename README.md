@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
-**[My Blog](https://onedivahead.netlify.app/)**
+**[My Blog](https://onedivahead.netlify.app/blog/)**
 
 <a href="https://onedivahead.netlify.app/">
   <img alt="Vlad Manoilo" src="https://img.icons8.com/cotton/64/000000/website.png" />

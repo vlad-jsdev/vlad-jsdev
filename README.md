@@ -1,61 +1,106 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://twitter.com/VladOS_X">
-  <img align="left" alt="Vlad Manoilo | Twitter" width="22px" src="https://raw.githubusercontent.com/lucide-icons/lucide/890514de6c32585e5e13b1ccdbb6e2dbcee71e8b/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vlad-manoilo-68a40789/">
-  <img align="left" alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/lucide-icons/lucide/890514de6c32585e5e13b1ccdbb6e2dbcee71e8b/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100001903946448">
-  <img align="left" alt="Vlad Manoilo" width="22px" src="https://raw.githubusercontent.com/lucide-icons/lucide/890514de6c32585e5e13b1ccdbb6e2dbcee71e8b/icons/facebook.svg" />
-</a>  
-
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
---------------------------------------------------------------------------------
-
-**[My WebSite](https://onedivahead.netlify.app/)**
+**[My Blog](https://onedivahead.netlify.app/)**
 
 <a href="https://onedivahead.netlify.app/">
   <img alt="Vlad Manoilo" src="https://img.icons8.com/cotton/64/000000/website.png" />
 </a>  
-
---------------------------------------------------------------------------------
-
-<br />  
-
-Welcome to my GitHub profile! 👋
-
-I am an experienced software developer with a strong focus on building cutting-edge applications using ReactJS, React Native, and Sencha ExtJS. My skills in creating stable and interactive UI components, coupled with efficient state management using Redux, have led to the delivery of exceptional software products.
-
-I take great pride in delivering high-quality products by diligently fixing bugs, writing comprehensive tests, and maintaining thorough documentation. My dedication to code reviews and refactoring ensures maintainable and robust codebases.
-
-Collaboration is integral to my work style, and I enjoy participating in discussions on new features, tasks, and user stories. With a deep understanding of Agile methodologies, I adapt swiftly and value teamwork.
-
-Moreover, I love sharing my knowledge through presentations and actively mentor interns, providing guidance and knowledge transfer to foster growth within the team.
-
-Explore my GitHub repositories to witness my passion for innovation and problem-solving. If you have any inquiries or wish to collaborate, feel free to reach out. Let's create remarkable software solutions together! 🚀
-
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" height="250" />
-  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@vlados_x](https://twitter.com/VladOS_X);
-- 📝 [Resume](https://onedivahead.netlify.app/work/)
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<br/>
-
-<p align="center">📈 My GitHub Stats</p>
-
 <br />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vlad-jsdev&show_icons=true&theme=gotham" alt="vlad-jsdev" />
+# Frontend Engineer
+
+> **Frontend Engineer**
+> *Business problems · Product thinking · Legacy systems · Modern tooling*
+
+---
+
+## `01` — The Short Version
+
+**Short description:** Frontend Engineer
+
+## `02` — What I Actually Do
+
+**More details, if you’re still interested:**
+
+I try to solve business issues. Integrate new features. Make sure third-party libraries are properly placed into the build pipeline. Keep users happy on all platforms, including accessibility and user experience.
+
+I have big experience with legacy systems and try to integrate new libraries and approaches into old stacks without breaking everything around them.
+
+> **I still don’t really understand why, in the AI era, if you are a senior engineer, you *need* to be limited to a specific stack.**
+
+You don’t have to spend that much time diving into new frameworks if you have a good background and understand the fundamentals.
+
+---
+
+# `03` — Technical Stack
+<details>
+<summary>--EXPAND--</summary>
+
+### `LANGUAGES`
+
+`TypeScript` · `JavaScript` · `Java` · `Python` · `CoffeeScript`
+
+### `FRONTEND / FRAMEWORKS`
+
+`React` · `React Native` · `ExtJS 3.4` · `Sencha Touch` · `ExtJS Modern` · `ExtJS Classic` · `Redux` · `Redux Toolkit` · `MobX` · `React Router` · `Next.js` · `Astro`
+
+> **Next.js** *(don’t mix it up with ExtJS 😉)*
+
+### `BACKEND / TOOLS`
+
+`Node.js` · `Git` · `Subversion` · `Docker` · `Jenkins` · `CI/CD`
+
+### `BUILD / DEVELOPMENT`
+
+`Vite` · `Webpack` · `Gulp` · `Grunt` · `Pug`
+
+### `TESTING / LIBRARIES`
+
+`Selenium` · `WebDriver` · `Dexie.js` · `Apryse FileViewer` · `TinyMCE` · `ESLint` · `Prettier`
+
+### `IDEs / EDITORS`
+
+`VS Code` · `WebStorm` · `IntelliJ IDEA` · `Neovim` · `LazyVim` · `Zed` · `Cursor` · `Antigravity`
+
+### `AI AGENTS`
+
+`Claude Code` · `Qwen Code`
+</details>
+
+---
+
+# `04` — Beyond the Code
+
+Let me introduce some more skills that help make internal company processes better.
+
+I can **mentor junior or intern developers**, write documentation, work with the team, and clearly design new features and integrations — avoiding unexpected decisions that could become blockers or lead to endless workaround pain.
+
+---
+
+# `05` — My Take on AI
+
+Maybe one more fact:
+
+> **I’m not afraid of AI, but I also don’t let AI do everything.**
+
+I try to keep a middle ground. I always **review AI-generated answers and actually read them** (sounds funny, yep?). I want to understand what AI is doing, not just blindly accept the result.
+
+That’s probably why my **PRO subscription is enough.** 😄
+
+---
+
+# `06` — End of README
+
+Great, you’ve reached the end.
+
+Then just **contact me and check my page.**
+
+> ## Hope we can make something **mind-blowing** together. 🚀
+
+  
+- 💬 [Write me an email](mailto:vladyslav0manoilo@gmail.com);
+- 📝 [Resume](https://onedivahead.netlify.app/work/)
 
 
 

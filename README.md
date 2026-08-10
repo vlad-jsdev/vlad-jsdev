@@ -17,7 +17,7 @@
 
 ## `01` — The Short Version
 
-**Short description:** Frontend Engineer
+**Short description:** Frontend Engineer 6+ years of experience
 
 ## `02` — What I Actually Do
 
